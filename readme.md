@@ -1,7 +1,7 @@
 <!-- Typing animation -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=FUbuntu+Mono&size=38&pause=100&color=F78C6B&center=true&vCenter=true&width=440&lines=Hi+I'm+Bilguun;Studying-Full-Stack+Develop;JLPT+N3+Certified"
+    src="https://readme-typing-svg.demolab.com?font=FUbuntu+Mono&size=38&pause=100&color=F78C6B&center=true&vCenter=true&width=440&lines=Hi+I'm+Bilguun;Studying+FS+Develop;JLPT+N3+Certified"
     alt="Typing SVG"
   />
 </p>
